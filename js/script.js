@@ -17,7 +17,7 @@ function generatePopupHTML(props) {
 map.on('load', () => {
     map.addSource('mrcs', {
         type: 'geojson',
-        data:'/map-box/data/qc_mrcs2.geojson',
+        data:'data/qc_mrcs2.geojson',
     });
 
 
