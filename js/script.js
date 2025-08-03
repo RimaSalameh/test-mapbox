@@ -27,7 +27,9 @@ map.on('load', () => {
         source: 'mrcs',
         paint: {
           'fill-color': '#BE398D',
-          'fill-opacity': 0.5
+          'fill-opacity': 0.5,
+          'fill-opacity': 0.8,        
+          'fill-outline-color': '#000' 
         }
     });
 
