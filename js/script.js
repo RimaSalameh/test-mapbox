@@ -26,9 +26,8 @@ map.on('load', () => {
         type: 'fill',
         source: 'mrcs',
         paint: {
-          'fill-color': '#BE398D',
-          'fill-opacity': 0.5,
-          'fill-opacity': 0.8,        
+          'fill-color': '#7FFF00',
+          'fill-opacity': 0.5,      
           'fill-outline-color': '#000' 
         }
     });
